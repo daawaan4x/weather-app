@@ -40,4 +40,4 @@ In alphabetical order:
 - [Cecilia Invencion](https://github.com/Cesshi) (**@Cesshi**)
 - [Geila Rigayen](https://github.com/geilala) (**@geilala**)
 - [Lois Concepcion](https://github.com/LoisDub) (**@LoisDub** & **@LoisChiles**)
-- [Theone Eclarin](https://github.com/daawaan4U) (**@daawaan4U**)
+- [Theone Eclarin](https://github.com/daawaan4x) (**@daawaan4x**)
