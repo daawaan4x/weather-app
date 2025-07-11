@@ -1,6 +1,6 @@
 # MMSU-CS113-Project
 
-A desktop weather-forecast app made with Java Swing.
+A desktop weather-forecast app made with Java Swing. See [releases](https://github.com/daawaan4x/weather-app/releases/tag/v1.0) for the downloadable `.jar`.
 
 <div align="center">
 	<img src="./assets/weatherforecast-animation.gif" alt="Weather Forecast App">
